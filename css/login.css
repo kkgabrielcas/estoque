@@ -2,7 +2,7 @@ body {
     font-family: system-ui;
     margin: 0;
     padding: 0;
-    background: linear-gradient(45deg, rgb(0, 0, 0), rgb(99, 97, 97));
+    background: linear-gradient(180deg, rgb(80, 79, 79), rgb(49, 49, 49));
     height: 100vh;
     display: flex;
     justify-content: center;
